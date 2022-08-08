@@ -47,10 +47,10 @@
 # database.default.DBPrefix =
 # database.default.port = 3306
 
-database.tests.hostname = localhost
+database.tests.hostname = 
 database.tests.database = ci4
-database.tests.username = root
-database.tests.password = lagrandemaison
+database.tests.username = 
+database.tests.password = 
 database.tests.DBDriver = MySQLi
 database.tests.DBPrefix =api
 database.tests.port = 3306
