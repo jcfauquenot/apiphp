@@ -2,6 +2,7 @@
 
 namespace App\Controllers;
 
+//use CodeIgniter\RESTful\ResourceController
 use App\Controllers\BaseController;
 use App\Models\ProductModel;
 use CodeIgniter\HTTP\Response;
@@ -12,20 +13,28 @@ use Exception;
 
 class ProductController extends BaseController
 {
+    use ResponseTrait;
+
     public function index()
     {
         $product_obj = new ProductModel();
 
 		// Select all products from table	
         $products = $product_obj->findAll();
-        return $this->response->setJSON($products);
+        return $this->respond($products);
+       //  return $this->response->setJSON($products);
     }
 
-    public function show($id)
+    public function show($id = null)
     {
             $product_obj = new ProductModel();
             $product = $product_obj->findProductById($id);
-            return $this->response->setJSON($product);
+            
+            if($product){
+                return $this->respond($product);
+            }else{
+                return $this->failNotFound('aucun produits trouve');
+            }
     }
 
     public function insertProduct()
@@ -40,14 +49,13 @@ class ProductController extends BaseController
         $product = $product_obj->insert($data);
 
         $response = [
-            'status'   => 200,
+            'status'   => 201,
             'error'    => null,
             'messages' => [
-                'success' => 'Data Saved'
+                'success' => 'product Saved'
             ]
         ];
-        return $this->response->setJSON($response);
-
+        return $this->respondCreated($response);
 	}
 	
 	public function updateProduct($id){
@@ -62,12 +70,32 @@ class ProductController extends BaseController
 			"cost" => $this->request->getVar('cost'),
 			"product_image" => $this->request->getVar('product_image')
 		]);
+        $response = [
+            'status'   => 200,
+            'error'    => null,
+            'messages' => [
+                'success' => 'Products updated successfully'
+            ]
+        ];
+        return $this->respond($response);
 	}
 
 	public function deleteProduct($id){
 		$product_obj = new ProductModel();
         $product = $product_obj->findProductById($id);
 		// Delete product by ID
-		$product_obj->delete($id);
+        if($product){
+            $product_obj->delete($id);
+            $response = [
+                'status'   => 200,
+                'error'    => null,
+                'messages' => [
+                    'success' => 'product successfully deleted'
+                ]
+            ];
+            return $this->respondDeleted($response);
+        } else {
+            return $this->failNotFound('No products found');
+        }
 	}
 }

@@ -32,27 +32,23 @@ $routes->set404Override();
  * Route Definitions
  * --------------------------------------------------------------------
  */
-
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 
+// use ressource $routes->resource('products');
+
 $routes->group("api", function($routes){
 
-	// Call - all api product 
 	$routes->get("/", "ProductController::index");
-    // call api/v1/1
 
     $routes->get('(:num)', 'ProductController::show/$1');
 
-    // post the update product 
     $routes->post("add", "ProductController::insertProduct");
-	// Call - <url>/product/update-product
 
-    $routes->post("update/(:num)", "ProductController::updateProduct/$1");
+    $routes->put("update/(:num)", "ProductController::updateProduct/$1");
 	
     $routes->delete("delete/(:num)", "ProductController::deleteProduct/$1");
-	// Call - <url>/product/delete-product
 });
 
 /*
