@@ -39,4 +39,17 @@ class ProductModel extends Model
     protected $afterFind      = [];
     protected $beforeDelete   = [];
     protected $afterDelete    = [];
+
+    public function findProductById($id)
+    {
+        $client = $this
+            ->asArray()
+            ->where(['id' => $id])
+            ->first();
+
+        if (!$client) {
+            echo('Could not find client for specified ID');
+        }
+        return $client;
+    }
 }

@@ -37,6 +37,21 @@ $routes->set404Override();
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 
+$routes->group("product", function($routes){
+
+	// Call - <url>/product
+	$routes->get("/", "ProductController::index");
+	// Call - <url>/product/add-product
+
+    $routes->get('(:num)', 'ProductController::show/$1');
+
+	$routes->get("add-product", "ProductController::insertProduct");
+	// Call - <url>/product/update-product
+	$routes->get("update-product", "ProductController::updateProduct");
+	// Call - <url>/product/delete-product
+	$routes->get("delete-product", "ProductController::deleteProduct");
+});
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing
