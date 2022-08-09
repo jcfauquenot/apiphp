@@ -49,10 +49,10 @@ $routes->group("api", function($routes){
     $routes->post("add", "ProductController::insertProduct");
 	// Call - <url>/product/update-product
 
-    $routes->get("update-product", "ProductController::updateProduct");
-	// Call - <url>/product/delete-product
+    $routes->post("update/(:num)", "ProductController::updateProduct/$1");
 	
-    $routes->get("delete-product", "ProductController::deleteProduct");
+    $routes->delete("delete/(:num)", "ProductController::deleteProduct/$1");
+	// Call - <url>/product/delete-product
 });
 
 /*

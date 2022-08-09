@@ -25,14 +25,7 @@ class ProductController extends BaseController
     {
             $product_obj = new ProductModel();
             $product = $product_obj->findProductById($id);
-             // return $this->response->setJSON($product);
-            
-            return $this->getResponse(
-                [
-                    'message' => 'Client retrieved successfully',
-                    'client' => $product
-                ]
-                ); 
+            return $this->response->setJSON($product);
     }
 
     public function insertProduct()
@@ -57,24 +50,24 @@ class ProductController extends BaseController
 
 	}
 	
-	public function updateProduct(){
+	public function updateProduct($id){
 		$product_obj = new ProductModel();
+        $product = $product_obj->findProductById($id);
 
-		$product_id = 5; // ID to update
 
 		// Update product information by product id
-		$product_obj->update($product_id, [
-			"name" => "Update Product",
-			"description" => "Product Sample description update",
-			"cost" => 50,
-			"product_image" => "https://product-thumbnail-url.com"
+		$product_obj->update($id, [
+			"name" => $this->request->getVar('name'),
+			"description" => $this->request->getVar('description'),
+			"cost" => $this->request->getVar('cost'),
+			"product_image" => $this->request->getVar('product_image')
 		]);
 	}
 
-	public function deleteProduct(){
+	public function deleteProduct($id){
 		$product_obj = new ProductModel();
-		$product_id = 5; // ID to delete
+        $product = $product_obj->findProductById($id);
 		// Delete product by ID
-		$product_obj->delete($product_id);
+		$product_obj->delete($id);
 	}
 }
