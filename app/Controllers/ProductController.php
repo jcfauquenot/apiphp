@@ -5,7 +5,9 @@ namespace App\Controllers;
 use App\Controllers\BaseController;
 use App\Models\ProductModel;
 use CodeIgniter\HTTP\Response;
+use CodeIgniter\API\ResponseTrait;
 use CodeIgniter\HTTP\ResponseInterface;
+
 use Exception;
 
 class ProductController extends BaseController
@@ -23,21 +25,36 @@ class ProductController extends BaseController
     {
             $product_obj = new ProductModel();
             $product = $product_obj->findProductById($id);
-            return $this->response->setJSON($product);
+             // return $this->response->setJSON($product);
+            
+            return $this->getResponse(
+                [
+                    'message' => 'Client retrieved successfully',
+                    'client' => $product
+                ]
+                ); 
     }
-
 
     public function insertProduct()
     {
 		$product_obj = new ProductModel();
-		
-		// Insert product row into table
-		$product_obj->insert([
-			"name" => "New Product",
-			"description" => "Product Sample description",
-			"cost" => 120,
-			"product_image" => "https://product-thumbnail-url.com"
-		]);
+        $data = [
+            'name' => $this->request->getVar('name'),
+            'description' => $this->request->getVar('description'),
+            'cost' => $this->request->getVar('cost'),
+            'product_image' => $this->request->getVar('product_image'),
+        ];
+        $product = $product_obj->insert($data);
+
+        $response = [
+            'status'   => 200,
+            'error'    => null,
+            'messages' => [
+                'success' => 'Data Saved'
+            ]
+        ];
+        return $this->response->setJSON($response);
+
 	}
 	
 	public function updateProduct(){
