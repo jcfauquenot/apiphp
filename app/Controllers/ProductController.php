@@ -2,7 +2,6 @@
 
 namespace App\Controllers;
 
-//use CodeIgniter\RESTful\ResourceController
 use App\Controllers\BaseController;
 use App\Models\ProductModel;
 use CodeIgniter\HTTP\Response;

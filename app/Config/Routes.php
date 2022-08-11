@@ -41,14 +41,14 @@ $routes->get('/', 'Home::index');
 $routes->group("api", function($routes){
 
 	$routes->get("/", "ProductController::index");
-
     $routes->get('(:num)', 'ProductController::show/$1');
-
     $routes->post("add", "ProductController::insertProduct");
-
     $routes->put("update/(:num)", "ProductController::updateProduct/$1");
-	
     $routes->delete("delete/(:num)", "ProductController::deleteProduct/$1");
+
+    $routes->post("register", "RegisterController::index");
+    $routes->post("login", "LoginController::index");
+    $routes->get("users", "UserController::index", ['filter' => 'authFilter']);
 });
 
 /*
