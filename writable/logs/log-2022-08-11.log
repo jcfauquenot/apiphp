@@ -1,0 +1,585 @@
+CRITICAL - 2022-08-11 03:55:06 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:56:18 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:56:18 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:56:18 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:56:19 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:56:19 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:56:20 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:56:21 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:56:44 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:56:53 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:58:06 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:58:07 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:58:07 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:58:07 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:58:08 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 03:58:08 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+in APPPATH/Filters/AuthFilter.php on line 37.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:05:38 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNTkzOCwiZXhwIjoxNjYwMjE5NTM4LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:05:50 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNTk1MCwiZXhwIjoxNjYwMjE5NTUwLCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:06:13 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNTk3MywiZXhwIjoxNjYwMjE5NTczLCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:06:56 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjAxNiwiZXhwIjoxNjYwMjE5NjE2LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:07:09 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjAyOSwiZXhwIjoxNjYwMjE5NjI5LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:07:54 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjA3NCwiZXhwIjoxNjYwMjE5Njc0LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:08:53 --> password_verify(): Passing null to parameter #1 ($password) of type string is deprecated
+in APPPATH/Controllers/LoginController.php on line 29.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'password_verify(): Passing null to parameter #1 ($password) of type string is deprecated', 'APPPATH/Controllers/LoginController.php', 29)
+ 2 APPPATH/Controllers/LoginController.php(29): password_verify(null, '$2y$10$jh8PYyXHt/HV7YjyHL/nm.tk0BsF2LPmYK2z6AqfMBxkArX4A9eo2')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:09:06 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjE0NiwiZXhwIjoxNjYwMjE5NzQ2LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:10:15 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjIxNSwiZXhwIjoxNjYwMjE5ODE1LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:10:20 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjIyMCwiZXhwIjoxNjYwMjE5ODIwLCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:10:21 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjIyMSwiZXhwIjoxNjYwMjE5ODIxLCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:10:23 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjIyMywiZXhwIjoxNjYwMjE5ODIzLCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:10:23 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjIyMywiZXhwIjoxNjYwMjE5ODIzLCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:11:14 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjI3NCwiZXhwIjoxNjYwMjE5ODc0LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:11:15 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjI3NSwiZXhwIjoxNjYwMjE5ODc1LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:11:20 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjI4MCwiZXhwIjoxNjYwMjE5ODgwLCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:11:33 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjI5MywiZXhwIjoxNjYwMjE5ODkzLCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:11:35 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjI5NSwiZXhwIjoxNjYwMjE5ODk1LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:11:46 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjMwNiwiZXhwIjoxNjYwMjE5OTA2LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:11:47 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjMwNywiZXhwIjoxNjYwMjE5OTA3LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:11:48 --> key must be a string when using hmac
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 232.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(202): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNjMwOCwiZXhwIjoxNjYwMjE5OTA4LCJlbWFpbCI6ImpjQGpjLmpjIn0', false, 'HS256')
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::encode([...], false, 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:34:58 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(47): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNzY5OCwiZXhwIjoxNjYwMjIxMjk4LCJlbWFpbCI6ImpjQGpjLmpjIn0.HssumWvCOnBSVX6TLpUP_u7Z1Rej5S8JD11JQ43cbTg', 'dododo', true)
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:35:30 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(47): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNzczMCwiZXhwIjoxNjYwMjIxMzMwLCJlbWFpbCI6ImpjQGpjLmpjIn0.GWcohV7-qXqKdxROmkCdAzVHmyNCi3Dk0snaPs3GC14', 'dododo', true)
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:37:13 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(47): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNzgzMywiZXhwIjoxNjYwMjIxNDMzLCJlbWFpbCI6ImpjQGpjLmpjIn0.KEs223FugrHk2kJsC3wxIUsJYnbzjGIiHoT9_NcmsRk', 'dododo', true)
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:37:15 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(47): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNzgzNSwiZXhwIjoxNjYwMjIxNDM1LCJlbWFpbCI6ImpjQGpjLmpjIn0.YNB-wQ7KPrbB8RG_r1NcwVJNwMtwbdLtNyhYHU4tk4Q', 'dododo', true)
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:37:24 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(47): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNzg0NCwiZXhwIjoxNjYwMjIxNDQ0LCJlbWFpbCI6ImpjQGpjLmpjIn0.2C2Ebsnv-kz05DhPOTRzAL1Lq174JEQbiSajoAX-EQM', 'dododo', true)
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:38:05 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(47): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxNzg4NSwiZXhwIjoxNjYwMjIxNDg1LCJlbWFpbCI6ImpjQGpjLmpjIn0.aavHsmcxloEJgR79M8otYymG0Yhk1_UAQNL2q2jS06k', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:24 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAyNCwiZXhwIjoxNjYwMjIxNjI0LCJlbWFpbCI6ImpjQGpjLmpjIn0.uUG741nRormkrpLCZ3m5ttOtoChFioTqhYjMTl-69BI', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:25 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAyNSwiZXhwIjoxNjYwMjIxNjI1LCJlbWFpbCI6ImpjQGpjLmpjIn0.Hxxkfy73ms_5oiqPTCE1oOOvWPmXRMvHcWZIAMUQcP4', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:26 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAyNiwiZXhwIjoxNjYwMjIxNjI2LCJlbWFpbCI6ImpjQGpjLmpjIn0.dmchxSbgz86UnGRlNiu2cpUi146L3BcCR6qqAMDG_1E', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:26 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAyNiwiZXhwIjoxNjYwMjIxNjI2LCJlbWFpbCI6ImpjQGpjLmpjIn0.dmchxSbgz86UnGRlNiu2cpUi146L3BcCR6qqAMDG_1E', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:27 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAyNywiZXhwIjoxNjYwMjIxNjI3LCJlbWFpbCI6ImpjQGpjLmpjIn0.KazHB2_7Xw-NIVDy_udrWC2qNNgHkDlA7aa0xIOp_rY', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:27 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAyNywiZXhwIjoxNjYwMjIxNjI3LCJlbWFpbCI6ImpjQGpjLmpjIn0.KazHB2_7Xw-NIVDy_udrWC2qNNgHkDlA7aa0xIOp_rY', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:28 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAyOCwiZXhwIjoxNjYwMjIxNjI4LCJlbWFpbCI6ImpjQGpjLmpjIn0.Gv6__3D6lzJqFe1bCR6jaILGCFhjFuLrPydwZjCYJFE', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:28 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAyOCwiZXhwIjoxNjYwMjIxNjI4LCJlbWFpbCI6ImpjQGpjLmpjIn0.Gv6__3D6lzJqFe1bCR6jaILGCFhjFuLrPydwZjCYJFE', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:29 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAyOSwiZXhwIjoxNjYwMjIxNjI5LCJlbWFpbCI6ImpjQGpjLmpjIn0.ACbeKc_8BqvXRIxf63RbtuFnYTdPkEGs1UT9LZJUxgM', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:30 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAzMCwiZXhwIjoxNjYwMjIxNjMwLCJlbWFpbCI6ImpjQGpjLmpjIn0.etMU3pBhQIBhapIc4Da9RsmLt9tHAZgsaVNzsDYcC48', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:30 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAzMCwiZXhwIjoxNjYwMjIxNjMwLCJlbWFpbCI6ImpjQGpjLmpjIn0.etMU3pBhQIBhapIc4Da9RsmLt9tHAZgsaVNzsDYcC48', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:40:34 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODAzNCwiZXhwIjoxNjYwMjIxNjM0LCJlbWFpbCI6ImpjQGpjLmpjIn0._WUhXI-hJQWnMDXqG3yKFV0uhQwS-WhWqFo7k7e4IQ0', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:41:09 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODA2OSwiZXhwIjoxNjYwMjIxNjY5LCJlbWFpbCI6ImpjQGpjLmpjIn0.6me5Zubze_QysKkqz9ywukpzPHZwJtdNgIH9sTCZY5U', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:41:39 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODA5OSwiZXhwIjoxNjYwMjIxNjk5LCJlbWFpbCI6ImpjQGpjLmpjIn0.8c9e9Jbi-A5Iv0v_giDZRo2QgzddcfeUKSa_AUCT4aM', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:41:41 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODEwMSwiZXhwIjoxNjYwMjIxNzAxLCJlbWFpbCI6ImpjQGpjLmpjIn0.vcTocv5_ceYt9kA93UbbkTb-K3f65pVQkcS2EiF5mIQ', 'dododo', 'HS256')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:42:26 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODE0NiwiZXhwIjoxNjYwMjIxNzQ2LCJlbWFpbCI6ImpjQGpjLmpjIn0.nO3c4ephj3SiKtuA1_tYbA_M-226Xmu2uicH2bsIolE', 'dododo', true)
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 06:42:28 --> "kid" empty, unable to lookup correct key
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 434.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(128): Firebase\JWT\JWT::getKey('dododo', null)
+ 2 APPPATH/Controllers/LoginController.php(48): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIxODE0OCwiZXhwIjoxNjYwMjIxNzQ4LCJlbWFpbCI6ImpjQGpjLmpjIn0.vL08f3CgS9PjLYyBMWriSS3jWwsqFgMPGA_fAzu0Zow', 'dododo', true)
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 07:42:53 --> Syntax error, malformed JSON
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 482.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(343): Firebase\JWT\JWT::handleJsonError(4)
+ 2 VENDORPATH/firebase/php-jwt/src/JWT.php(106): Firebase\JWT\JWT::jsonDecode('È\\Žˆ’•Õ‹˜[ÈŽˆ’ÌMˆŸ')
+ 3 APPPATH/Filters/AuthFilter.php(55): Firebase\JWT\JWT::decode('yJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIwODk2NSwiZXhwIjoxNjYwMjEyNTY1LCJlbWFpbCI6ImpjQGpjLmpjIn0.p28k6WHmESbzyoEpWEtUJ6XHFA8eztRb4zlvdw5FvxE', Object(Firebase\JWT\Key))
+ 4 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 5 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 07:42:53 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Malformed UTF-8 characters, possibly incorrectly encoded". in /Users/jeanchristophe/App/apiphp/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /Users/jeanchristophe/App/apiphp/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8...')
+#1 /Users/jeanchristophe/App/apiphp/vendor/codeigniter4/framework/system/API/ResponseTrait.php(348): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /Users/jeanchristophe/App/apiphp/vendor/codeigniter4/framework/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /Users/jeanchristophe/App/apiphp/vendor/codeigniter4/framework/system/Debug/Exceptions.php(132): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(DomainException))
+#5 {main}
+  thrown
+in SYSTEMPATH/Format/JSONFormatter.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-08-11 07:46:39 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(55): Firebase\JWT\JWT::decode('lklmjlmj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 07:47:38 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(55): Firebase\JWT\JWT::decode('lklmjlmj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 07:47:54 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(55): Firebase\JWT\JWT::decode('ssmqqsfqsF', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 09:30:24 --> Expired token
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 162.
+ 1 APPPATH/Filters/AuthFilter.php(55): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIyMTgyOCwiZXhwIjoxNjYwMjI1NDI4LCJlbWFpbCI6ImpjQGpjLmpjIn0.G_rZiroxCp05JIEqaxweB2z-W9xu60NM316Lx_RZa1k', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 09:30:34 --> Expired token
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 162.
+ 1 APPPATH/Filters/AuthFilter.php(55): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIyMTgyOCwiZXhwIjoxNjYwMjI1NDI4LCJlbWFpbCI6ImpjQGpjLmpjIn0.G_rZiroxCp05JIEqaxweB2z-W9xu60NM316Lx_RZa1k', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 09:30:36 --> Expired token
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 162.
+ 1 APPPATH/Filters/AuthFilter.php(55): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIyMTgyOCwiZXhwIjoxNjYwMjI1NDI4LCJlbWFpbCI6ImpjQGpjLmpjIn0.G_rZiroxCp05JIEqaxweB2z-W9xu60NM316Lx_RZa1k', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-11 09:30:40 --> Expired token
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 162.
+ 1 APPPATH/Filters/AuthFilter.php(55): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MDIyMTgyOCwiZXhwIjoxNjYwMjI1NDI4LCJlbWFpbCI6ImpjQGpjLmpjIn0.G_rZiroxCp05JIEqaxweB2z-W9xu60NM316Lx_RZa1k', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
