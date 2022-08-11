@@ -6,6 +6,7 @@ use App\Controllers\BaseController;
 use CodeIgniter\API\ResponseTrait;
 use App\Models\UserModel;
 use \Firebase\JWT\JWT;
+use Firebase\JWT\Key;
 
 class LoginController extends BaseController
 {
@@ -44,10 +45,16 @@ class LoginController extends BaseController
         );
           
         $token = JWT::encode($payload, $key, 'HS256');
+        $decode = JWT::decode($token, new Key($key, 'HS256'));
+
+        // var_dump($decode);
+        // die();
+       
   
         $response = [
             'message' => 'Login Succesful',
-            'token' => $token
+            'token' => $token,
+            'decode' => $decode
         ];
           
         return $this->respond($response, 200);
