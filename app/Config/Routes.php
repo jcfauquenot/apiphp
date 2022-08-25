@@ -16,6 +16,7 @@ if (is_file(SYSTEMPATH . 'Config/Routes.php')) {
  * Router Setup
  * --------------------------------------------------------------------
  */
+
 $routes->setDefaultNamespace('App\Controllers');
 $routes->setDefaultController('Home');
 $routes->setDefaultMethod('index');
@@ -35,12 +36,14 @@ $routes->set404Override();
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
+$routes->get('/register', 'RegisterSessionController::index');
+$routes->get('/look', 'RegisterSessionController::look');
 
 // use ressource $routes->resource('products');
 
 $routes->group("api", function($routes){
 
-	$routes->get("/", "ProductController::index");
+	$routes->get("/", "ProductController::index", ['filter' => 'authCors']);
     $routes->get('(:num)', 'ProductController::show/$1');
     $routes->post("add", "ProductController::insertProduct");
     $routes->put("update/(:num)", "ProductController::updateProduct/$1");

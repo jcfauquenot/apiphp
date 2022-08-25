@@ -6,6 +6,7 @@ use App\Controllers\BaseController;
 use CodeIgniter\API\ResponseTrait;
 use App\Models\UserModel;
 
+
 class UserController extends BaseController
 {
 
@@ -13,6 +14,7 @@ class UserController extends BaseController
 
     public function index()
     {
+        // header('Access-Control-Allow-Origin: *');
         $users = new UserModel;
         return $this->respond(['users' => $users->findAll()], 200);
     }

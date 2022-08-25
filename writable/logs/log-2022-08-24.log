@@ -1,0 +1,24 @@
+CRITICAL - 2022-08-24 05:45:03 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-24 08:36:17 --> Expired token
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 162.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MTMzODA0MCwiZXhwIjoxNjYxMzQxNjQwLCJlbWFpbCI6ImpjQGpjLmpjIn0.lY9ph00sqZZEvnvDh4bvJbKnFH80Q_3MMjdxmFI7q4c', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-24 08:36:22 --> Expired token
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 162.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MTMzODA0MCwiZXhwIjoxNjYxMzQxNjQwLCJlbWFpbCI6ImpjQGpjLmpjIn0.lY9ph00sqZZEvnvDh4bvJbKnFH80Q_3MMjdxmFI7q4c', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')

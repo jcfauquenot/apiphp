@@ -1,0 +1,1229 @@
+CRITICAL - 2022-08-23 09:18:44 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('ll', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:23:06 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkhlkhlkhlkhlk', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:24:15 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkhlkhlkhlkhlk', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:24:21 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkhlkhlkhlkhlk', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:24:22 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkhlkhlkhlkhlk', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:24:40 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkhlkhlkhlkhlk', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:27:13 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkhlkhlkhlkhlk', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:27:15 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkhlkhlkhlkhlk', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:27:17 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkhlkhlkhlkhlk', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:27:53 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkjhlkh', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:36:35 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkjhlkh', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:36:37 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkjhlkh', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:36:40 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkjhlkh', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:36:41 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkjhlkh', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:39:06 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkjhlkh', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:39:34 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('lkjhlkh', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:39:44 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:41:35 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:41:39 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:41:41 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:41:41 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:42:47 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:42:59 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:43:00 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:43:07 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:43:09 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:43:25 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:46:39 --> Wrong number of segments
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 102.
+ 1 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('UnexpectedValumljmlj', Object(Firebase\JWT\Key))
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:47:16 --> Unexpected control character found
+in VENDORPATH/firebase/php-jwt/src/JWT.php on line 482.
+ 1 VENDORPATH/firebase/php-jwt/src/JWT.php(343): Firebase\JWT\JWT::handleJsonError(3)
+ 2 VENDORPATH/firebase/php-jwt/src/JWT.php(106): Firebase\JWT\JWT::jsonDecode('{"typ":"JWT","alg}û"ÌMˆŸ')
+ 3 APPPATH/Filters/AuthFilter.php(54): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1QiLCJhbGcOffsizI1NiJ9.eyJpc3MiOiJJc3N1ZXIgb2YgdGhlIEpXVCIsImF1ZCI6IkF1ZGllbmNlIHRoYXQgdGhlIEpXVCIsInN1YiI6IlN1YmplY3Qgb2YgdGhlIEpXVCIsImlhdCI6MTY2MTI2NjAwNiwiZXhwIjoxNjYxMjY5NjA2LCJlbWFpbCI6ImpjQGpjLmpjIn0.DJxqDLzsfoy4DMUT8t4Nb98iVA5DVy-khe6ElAJq0cA', Object(Firebase\JWT\Key))
+ 4 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 5 SYSTEMPATH/CodeIgniter.php(431): CodeIgniter\Filters\Filters->run('api/users', 'before')
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 09:47:16 --> Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Malformed UTF-8 characters, possibly incorrectly encoded". in /Users/jeanchristophe/App/apiphp/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:41
+Stack trace:
+#0 /Users/jeanchristophe/App/apiphp/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8...')
+#1 /Users/jeanchristophe/App/apiphp/vendor/codeigniter4/framework/system/API/ResponseTrait.php(348): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /Users/jeanchristophe/App/apiphp/vendor/codeigniter4/framework/system/API/ResponseTrait.php(99): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /Users/jeanchristophe/App/apiphp/vendor/codeigniter4/framework/system/Debug/Exceptions.php(132): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(DomainException))
+#5 {main}
+  thrown
+in SYSTEMPATH/Format/JSONFormatter.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-08-23 10:15:18 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:15:55 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:16:39 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:16:41 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:16:42 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:16:43 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:16:52 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:02 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:02 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:03 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:03 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:03 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:04 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:11 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:36 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:37 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:37 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:37 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:38 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:38 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:38 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:38 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:38 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:39 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:39 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:39 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:50 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:50 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:51 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:17:51 --> Undefined array key "username"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:00 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:01 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:01 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:02 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:02 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:03 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:03 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:03 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:04 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:06 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:09 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:09 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:24 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:25 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:25 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:25 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:25 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:41 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:41 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:42 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:42 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:42 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:42 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:42 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:43 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:43 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:43 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:43 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:43 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:44 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:44 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:44 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:44 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:44 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:44 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:45 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:45 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:45 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:46 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:46 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:46 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:47 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:18:47 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:20:03 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:20:04 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:20:04 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:20:04 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:20:04 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:20:04 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:20:04 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:38 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:39 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:39 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:40 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:40 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:40 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:40 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:40 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:41 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:41 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:41 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:22:42 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:05 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:06 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:06 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:06 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:06 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:06 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:07 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:07 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:07 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:07 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:07 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:07 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:08 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:08 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:08 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:10 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:46 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:49 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:54 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:23:59 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:02 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:04 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:06 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:08 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:50 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:52 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:53 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:54 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:55 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:56 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-08-23 10:24:56 --> Undefined array key "token"
+in APPPATH/Controllers/RegisterSessionController.php on line 39.
+ 1 APPPATH/Controllers/RegisterSessionController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "token"', 'APPPATH/Controllers/RegisterSessionController.php', 39)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\RegisterSessionController->look()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterSessionController))
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')

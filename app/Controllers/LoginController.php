@@ -14,6 +14,8 @@ class LoginController extends BaseController
       
     public function index()
     {
+
+        $session = \Config\Services::session();
         $userModel = new UserModel();
    
         $email = $this->request->getVar('email');
@@ -50,12 +52,13 @@ class LoginController extends BaseController
         // var_dump($decode);
         // die();
        
-  
         $response = [
             'message' => 'Login Succesful',
             'token' => $token,
             'decode' => $decode
         ];
+        
+        $session->set($response);
           
         return $this->respond($response, 200);
         

@@ -1,14 +1,17 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import Hello from "./components/Hello";
 import Exemple from "./components/Exemple";
-import Axios from "axios";
+import Footer from "./components/Footer";
+import Form from "./components/Form";
+import HeaderSite from "./components/HeaderSite.jsx";
 
 function App() {
   return (
     <div className="App">
-      <Hello />
+      <HeaderSite name="jc site" />
+      <Form />
       <Exemple />
+      <Footer />
     </div>
   );
 }

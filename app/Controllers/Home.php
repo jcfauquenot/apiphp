@@ -8,6 +8,9 @@ class Home extends BaseController
     {   
         $data['title'] = "dodo";
 
-        return view('welcome_message', $data);
+        // return view('welcome_message', $data);
+        return view('massage');
+
+        
     }
 }
