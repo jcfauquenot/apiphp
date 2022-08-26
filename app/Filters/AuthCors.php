@@ -10,16 +10,19 @@ use CodeIgniter\Filters\FilterInterface;
 
 class AuthCors implements FilterInterface
 {
-    public function after(RequestInterface $request, ResponseInterface $response, $arguments = null)
-    {
 
-
-    }
 
     public function before(RequestInterface $request, $arguments = null)
     {
 
-
+        header("Access-Control-Allow-Origin: http://localhost:5173");   
+        header("Content-Type: application/json; charset=UTF-8");    
+        header("Access-Control-Allow-Methods: POST, DELETE, OPTIONS");    
+        header("Access-Control-Max-Age: 3600");    
+        header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With");
+        if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {    
+            return 0;    
+         }
 
         // if (array_key_exists('HTTP_ORIGIN', $_SERVER)) {
         //     $origin = $_SERVER['HTTP_ORIGIN'];
@@ -36,17 +39,24 @@ class AuthCors implements FilterInterface
         // if (in_array($origin, $allowed_domains)) {
         //     header('Access-Control-Allow-Origin: ' . $origin);
         // }
-        header('Access-Control-Allow-Origin:'.'*');
-        header("Access-Control-Allow-Headers: Origin, X-API-KEY, X-Requested-With, Content-Type, Accept, Access-Control-Request-Method, Access-Control-Allow-Headers, Authorization, observe, enctype, Content-Length, X-Csrf-Token");
-        header("Access-Control-Allow-Methods: GET, PUT, POST, DELETE, PATCH, OPTIONS");
-        header("Access-Control-Allow-Credentials: true");
-        header("Access-Control-Max-Age: 3600");
-        header('content-type: application/json; charset=utf-8');
-        $method = $_SERVER['REQUEST_METHOD'];
-        if ($method == "OPTIONS") {
-            header("HTTP/1.1 200 OK CORS");
-            die();
-        }
+//         header('Access-Control-Allow-Origin:'.'*');
+//         header('Access-Control-Allow-Headers: *');
+//         // header("Access-Control-Allow-Headers: Origin, X-API-KEY, X-Requested-With, Content-Type, Accept, Access-Control-Request-Method, Access-Control-Allow-Headers, Authorization, observe, enctype, Content-Length, X-Csrf-Token");
+//         header("Access-Control-Allow-Methods: GET, PUT, POST, DELETE, PATCH, OPTIONS");
+// //        header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
+//         header("Access-Control-Allow-Credentials: true");
+//         header("Access-Control-Max-Age: 3600");
+//         // header('content-type: application/json; charset=utf-8');
+//         $method = $_SERVER['REQUEST_METHOD'];
+//         if ($method == "OPTIONS") {
+//             header("HTTP/1.1 200 OK CORS");
+//             die();
+//         }
+
+    }
+    public function after(RequestInterface $request, ResponseInterface $response, $arguments = null)
+    {
+
 
     }
 

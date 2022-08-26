@@ -2,6 +2,8 @@
 
 namespace App\Controllers;
 
+use CodeIgniter\HTTP\RequestInterface;
+use CodeIgniter\HTTP\ResponseInterface;
 use App\Controllers\BaseController;
 use CodeIgniter\API\ResponseTrait;
 use App\Models\UserModel;
@@ -19,7 +21,13 @@ class LoginController extends BaseController
         $userModel = new UserModel();
    
         $email = $this->request->getVar('email');
-        $password = $this->request->getVar('password');
+        $password= $this->request->getVar('password');
+
+        // $email = $_POST[
+        // return $this->respond([
+        //     'email' => $email,
+        //     'password' => $password
+        // ], 200);
            
         $user = $userModel->where('email', $email)->first();
    
@@ -51,14 +59,19 @@ class LoginController extends BaseController
 
         // var_dump($decode);
         // die();
-       
+        $session->set($token);
+
+        // on prepare la requetes pour la renvoyer avec le token 
+        // il faut faire un re envoi ou un redirection 
+
+
         $response = [
             'message' => 'Login Succesful',
             'token' => $token,
-            'decode' => $decode
+           'decode' => $decode,
+            'session' => $session->token
         ];
         
-        $session->set($response);
           
         return $this->respond($response, 200);
         

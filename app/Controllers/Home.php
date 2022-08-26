@@ -6,11 +6,10 @@ class Home extends BaseController
 {
     public function index()
     {   
-        $data['title'] = "dodo";
+        // $data['title'] = "dodo";
 
         // return view('welcome_message', $data);
-        return view('massage');
-
-        
+        //return view('massage');
+        return view('Signup');
     }
 }

@@ -38,6 +38,7 @@ $routes->set404Override();
 $routes->get('/', 'Home::index');
 $routes->get('/register', 'RegisterSessionController::index');
 $routes->get('/look', 'RegisterSessionController::look');
+$routes->get('/resultat', 'Resultat::index');
 
 // use ressource $routes->resource('products');
 
@@ -50,7 +51,7 @@ $routes->group("api", function($routes){
     $routes->delete("delete/(:num)", "ProductController::deleteProduct/$1");
 
     $routes->post("register", "RegisterController::index");
-    $routes->post("login", "LoginController::index");
+    $routes->post("login", "LoginController::index",['filter' => 'cors']);
     $routes->get("users", "UserController::index", ['filter' => 'authFilter']);
 });
 
